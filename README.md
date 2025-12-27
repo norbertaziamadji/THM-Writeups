@@ -34,7 +34,7 @@
 - **[Voir Pre Security](learning-paths/pre-security/)** - Mon parcours principal
 - **[Mes notes techniques](cheatsheets/)** - Aide-mémoire & commandes
 - **[Preuves de progression](thm-proof/screenshots)** - Captures d'écran
-- **[Mon profil THM](https://tryhackme.com/p/norbertaziamadji)** - Vérification directe
+- **[Mon profil THM](https://tryhackme.com/p/DarkGhost6)** - Vérification directe
 
 ---
 
