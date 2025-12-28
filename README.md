@@ -6,7 +6,7 @@
 **Contact :** norbertaziamadjidev@gmail.com
 
 ## Roadmap
-- **Pre-Security :** Terminé (modules 1- 5, writeup module 5 en production)
+- **Pre-Security :** Terminé (modules 1- 5)
 - **Cybersecurity 101 :** En cours (renforcement concepts Pre-Security + avancés)
 - **Junior Penetration Tester (Red Team) :** Prochain path 2026
 
@@ -16,6 +16,7 @@
 - [Les fondamentaux du réseau](writeups/pre-security/network-fundamentals.md)
 - [Comment fonctionne le web](writeups/pre-security/how-the-web-works.md)
 - [Les fondamentaux de Linux](writeups/pre-security/linux-fundamentals.md)
+- [Les fondamentaux de Windows](writeups/pre-security/windows-fundamentals.md)
 
 ## Screenshots & Preuves
 Voir [dossier screenshots](screenshots/)
