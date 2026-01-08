@@ -188,7 +188,7 @@ Comprendre l'architecture, la sécurité et l'administration du système d'explo
   - Configuration du pare-feu Windows (profils appropriés)
 
 **2. Optimisation de sécurité pour startups :**
-- **"Check-up Windows"** (200-400€)
+- **"Check-up Windows"**
   - Désactivation de services inutiles (`msconfig`)
   - Configuration des mises à jour automatiques
   - Vérification de l'état de Windows Defender
@@ -243,6 +243,6 @@ Windows est un système d'exploitation complexe avec une histoire riche et une i
 ---
 
 *Writeup rédigé par **Norbert Aziamadji** dans le cadre de mon apprentissage en cybersécurité.*  
-*Étudiant en cybersécurité au Bénin | [GitHub](https://github.com/norbertaziamadji) | [TryHackMe](https://tryhackme.com/p/DarkGhost6)*
+*Étudiant en cybersécurité au Bénin | [GitHub](https://github.com/norbertaziamadji) | [TryHackMe](https://tryhackme.com/p/norbertaziamadji)*
 
-**Dernière mise à jour :** 28/12/2025
+**Dernière mise à jour :** 08/01/2026

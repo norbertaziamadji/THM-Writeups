@@ -69,6 +69,6 @@ La distinction entre Red Team (offensif) et Blue Team (défensif) est fondamenta
 ---
 
 *Writeup rédigé par **Norbert Aziamadji** dans le cadre de mon apprentissage en cybersécurité.*  
-*Étudiant en cybersécurité au Bénin | [GitHub](https://github.com/norbertaziamadji) | [TryHackMe](https://tryhackme.com/p/DarkGhost6)*
+*Étudiant en cybersécurité au Bénin | [GitHub](https://github.com/norbertaziamadji) | [TryHackMe](https://tryhackme.com/p/norbertaziamadji)*
 
-**Dernière mise à jour :** 28/12/2025
+**Dernière mise à jour :** 08/01/2026

@@ -18,6 +18,11 @@
 - [Les fondamentaux de Linux](writeups/pre-security/linux-fundamentals.md)
 - [Les fondamentaux de Windows](writeups/pre-security/windows-fundamentals.md)
 
+---
+
+### Cybersecurity 101
+- [Commencez votre parcours en cybersécurité](writeups/cybersecurity101/start-your-cyber-security-journey.md)
+
 ## Screenshots & Preuves
 Voir [dossier screenshots](screenshots/)
 
@@ -31,6 +36,6 @@ Voir [dossier screenshots](screenshots/)
 
 Feedback welcome – je construis mon portfolio freelance cybersécurité.
 
-**Dernière mise à jour :** 28/12/2025
+**Dernière mise à jour :** 08/01/2026
 
 ## **Statut : "Repo en construction depuis le 24 déc. 2025"**
